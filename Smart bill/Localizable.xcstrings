@@ -1,0 +1,2886 @@
+{
+  "sourceLanguage" : "ar",
+  "strings" : {
+    "%@ ريال سعودي" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SAR %@"
+          }
+        }
+      }
+    },
+    "%@ فواتير" : {
+
+    },
+    "%@ مقارنة بالفترة السابقة" : {
+
+    },
+    "%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
+    "%lld عرض من المتاجر" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld store offers"
+          }
+        }
+      }
+    },
+    "%lld فاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld receipts"
+          }
+        }
+      }
+    },
+    "%lld فاتورة خلال الفترة" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld receipts in this period"
+          }
+        }
+      }
+    },
+    "%lld معروض" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld shown"
+          }
+        }
+      }
+    },
+    "%lld منتج في المتاجر" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld products available"
+          }
+        }
+      }
+    },
+    "%lld منتجات" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld products"
+          }
+        }
+      }
+    },
+    "−%lld%%" : {
+
+    },
+    "⃁" : {
+
+    },
+    "0.0" : {
+
+    },
+    "Password" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كلمة المرور"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "Smart Bill" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smart Bill"
+          }
+        }
+      }
+    },
+    "SmartBill" : {
+
+    },
+    "smartbill@gmail.com" : {
+
+    },
+    "آخر 3 أشهر" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last 3 Months"
+          }
+        }
+      }
+    },
+    "آخر 6 أشهر" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last 6 Months"
+          }
+        }
+      }
+    },
+    "أخرى" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other"
+          }
+        }
+      }
+    },
+    "أدخل سعرًا صالحًا بالريال" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter a valid price in SAR"
+          }
+        }
+      }
+    },
+    "أذونات الكاميرا والصور" : {
+
+    },
+    "أرسل الطلب بصيغة JSON." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send the request as JSON."
+          }
+        }
+      }
+    },
+    "أسعار ومنتجات المتاجر" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Store products and prices"
+          }
+        }
+      }
+    },
+    "أضف منتجات من قائمة المتاجر لتظهر هنا" : {
+
+    },
+    "أُضيفت للسلة (%lld)" : {
+
+    },
+    "أطعمة" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Food"
+          }
+        }
+      }
+    },
+    "أفضل العروض" : {
+
+    },
+    "أفضل سعر لدى %@" : {
+
+    },
+    "أكبر فرق عن السعر السابق: %@" : {
+
+    },
+    "أكثر التصنيفات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top Categories"
+          }
+        }
+      }
+    },
+    "أو" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "or"
+          }
+        }
+      }
+    },
+    "إجمالي المشتريات" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total Purchases"
+          }
+        }
+      }
+    },
+    "إجمالي المصروفات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total Spending"
+          }
+        }
+      }
+    },
+    "إجمالي المنتجات" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Products Total"
+          }
+        }
+      }
+    },
+    "إحصائياتك" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Statistics"
+          }
+        }
+      }
+    },
+    "إدارة البيانات الشخصية" : {
+
+    },
+    "إدارة الفواتير المحفوظة" : {
+
+    },
+    "إدارة حسابك وتفضيلات التطبيق" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage your account and app preferences"
+          }
+        }
+      }
+    },
+    "إدارة فواتيرك بكل سهولة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage your receipts with ease"
+          }
+        }
+      }
+    },
+    "إزالة صورة الفاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove Receipt Image"
+          }
+        }
+      }
+    },
+    "إزالة من المفضلة" : {
+
+    },
+    "إضافة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        }
+      }
+    },
+    "إضافة أخرى إلى السلة، الكمية %lld" : {
+
+    },
+    "إضافة إلى السلة" : {
+
+    },
+    "إضافة إلى المفضلة" : {
+
+    },
+    "إضافة منتج" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Product"
+          }
+        }
+      }
+    },
+    "إعادة التصوير" : {
+
+    },
+    "إعادة المحاولة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try Again"
+          }
+        }
+      }
+    },
+    "إعادة المحاولة بعد لحظات" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try Again Shortly"
+          }
+        }
+      }
+    },
+    "إعدادات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "إغلاق" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "إغلاق الفواتير" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close Receipts"
+          }
+        }
+      }
+    },
+    "إغلاق تفاصيل الفاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close Receipt Details"
+          }
+        }
+      }
+    },
+    "إلغاء" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "إنشاء حساب جديد" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create Account"
+          }
+        }
+      }
+    },
+    "ابحث عن متجر أو مدينة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search for a store or city"
+          }
+        }
+      }
+    },
+    "ابحث عن منتج..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search products…"
+          }
+        }
+      }
+    },
+    "احفظ بعض الفواتير لتظهر إحصائيات مصاريفك هنا" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save some receipts to see your spending statistics here"
+          }
+        }
+      }
+    },
+    "اختر اللغة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Language"
+          }
+        }
+      }
+    },
+    "اختر فترة أخرى لعرض فواتيرك المحفوظة" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose another period to view saved receipts"
+          }
+        }
+      }
+    },
+    "اختيار صورة أخرى" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose Another Photo"
+          }
+        }
+      }
+    },
+    "اختيار من الصور" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose from Photos"
+          }
+        }
+      }
+    },
+    "استجابة الخادم غير صالحة." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The server response is invalid."
+          }
+        }
+      }
+    },
+    "استجابة خدمة المنتجات غير صالحة. حاول مرة أخرى لاحقًا." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The product service returned an invalid response. Try again later."
+          }
+        }
+      }
+    },
+    "استجابة غير صالحة من الخادم" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The server returned an invalid response."
+          }
+        }
+      }
+    },
+    "استخدم POST لتحليل صورة الفاتورة." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use POST to analyze a receipt image."
+          }
+        }
+      }
+    },
+    "اسم المدينة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "City"
+          }
+        }
+      }
+    },
+    "اسم المنتج" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product Name"
+          }
+        }
+      }
+    },
+    "اسمح بالوصول إلى الكاميرا من الإعدادات لتصوير الفواتير." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow camera access in Settings to photograph receipts."
+          }
+        }
+      }
+    },
+    "اسمح بالوصول إلى الكاميرا من الإعدادات لمسح الباركود" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow camera access in Settings to scan barcodes."
+          }
+        }
+      }
+    },
+    "اضغط على الرسم لعرض قيمة الفترة" : {
+
+    },
+    "الآن" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now"
+          }
+        }
+      }
+    },
+    "الأسئلة الشائعة" : {
+
+    },
+    "الأسعار في المتاجر" : {
+
+    },
+    "الأقل" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lowest Price"
+          }
+        }
+      }
+    },
+    "الأقل سعراً" : {
+
+    },
+    "الإبلاغ عن مشكلة" : {
+
+    },
+    "الإجمالي" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total"
+          }
+        }
+      }
+    },
+    "الإحصائيات" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistics"
+          }
+        }
+      }
+    },
+    "الإشعارات" : {
+
+    },
+    "الإصدار 1.0" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version 1.0"
+          }
+        }
+      }
+    },
+    "الإعدادات" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "الإنفاق خلال الفترة" : {
+
+    },
+    "البريد الإلكتروني" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email address"
+          }
+        }
+      }
+    },
+    "البيانات والتخزين" : {
+
+    },
+    "التاريخ" : {
+
+    },
+    "التاريخ المحدد" : {
+
+    },
+    "التصنيف" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Category"
+          }
+        }
+      }
+    },
+    "التطبيق" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Preferences"
+          }
+        }
+      }
+    },
+    "التواصل مع الدعم" : {
+
+    },
+    "الحساب" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
+          }
+        }
+      }
+    },
+    "الخدمات السريعة" : {
+
+    },
+    "الخروج من حساب Smart Bill" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign out of your Smart Bill account"
+          }
+        }
+      }
+    },
+    "الخصوصية والأمان" : {
+
+    },
+    "الدعم والمعلومات" : {
+
+    },
+    "الرئيسية" : {
+
+    },
+    "السعر" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Price"
+          }
+        }
+      }
+    },
+    "السعر بالريال" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Price in SAR"
+          }
+        }
+      }
+    },
+    "السعر غير متاح" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Price unavailable"
+          }
+        }
+      }
+    },
+    "السلة" : {
+
+    },
+    "السلة فارغة" : {
+
+    },
+    "الشروط والأحكام" : {
+
+    },
+    "الشهر" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Month"
+          }
+        }
+      }
+    },
+    "العربية" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arabic"
+          }
+        }
+      }
+    },
+    "العملة" : {
+
+    },
+    "الفاتورة" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invoice"
+          }
+        }
+      }
+    },
+    "الفترة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Period"
+          }
+        }
+      }
+    },
+    "الفترة الزمنية" : {
+
+    },
+    "الفترة: %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Period: %@"
+          }
+        }
+      }
+    },
+    "الفواتير" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receipts"
+          }
+        }
+      }
+    },
+    "الفواتير المحفوظة" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved Receipts"
+          }
+        }
+      }
+    },
+    "الكاميرا غير متاحة الآن. اختر صورة من المكتبة." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The camera is unavailable. Choose a photo from your library."
+          }
+        }
+      }
+    },
+    "الكاميرا غير متاحة الآن. يمكنك اختيار صورة من المكتبة." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The camera is unavailable. You can choose a photo from your library."
+          }
+        }
+      }
+    },
+    "اللغة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        }
+      }
+    },
+    "المتجر" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Store"
+          }
+        }
+      }
+    },
+    "المجموع الجزئي" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Partial Total"
+          }
+        }
+      }
+    },
+    "المجموع الجزئي للمشتريات" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Partial Purchases Total"
+          }
+        }
+      }
+    },
+    "المجموع الجزئي للمصروفات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Partial Spending Total"
+          }
+        }
+      }
+    },
+    "المجموع: %@" : {
+
+    },
+    "المزامنة" : {
+
+    },
+    "المصروفات" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spending"
+          }
+        }
+      }
+    },
+    "المصروفات الشهرية" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monthly Spending"
+          }
+        }
+      }
+    },
+    "المصروفات الشهرية (مجموع جزئي)" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monthly Spending (Partial Total)"
+          }
+        }
+      }
+    },
+    "المصروفات حسب المتجر" : {
+
+    },
+    "المظهر" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appearance"
+          }
+        }
+      }
+    },
+    "المقارنة غير مكتملة بسبب أسعار غير متوفرة" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparison is incomplete because some prices are unavailable"
+          }
+        }
+      }
+    },
+    "المنتج" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product"
+          }
+        }
+      }
+    },
+    "المنتج غير موجود" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product not found"
+          }
+        }
+      }
+    },
+    "المنتجات" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Products"
+          }
+        }
+      }
+    },
+    "المنطقة" : {
+
+    },
+    "النتائج" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Results"
+          }
+        }
+      }
+    },
+    "الوضع الداكن" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark Mode"
+          }
+        }
+      }
+    },
+    "الوضع الفاتح" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light Mode"
+          }
+        }
+      }
+    },
+    "امسح فاتورتك" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan your receipt"
+          }
+        }
+      }
+    },
+    "انتهت جلسة الدخول. سجّل الدخول مجددًا ثم أعد التحليل." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your session expired. Sign in again and retry the analysis."
+          }
+        }
+      }
+    },
+    "انتهت مهلة الاتصال بالخادم. حاول مرة أخرى." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The server request timed out. Try again."
+          }
+        }
+      }
+    },
+    "بالريال السعودي" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Saudi Riyals"
+          }
+        }
+      }
+    },
+    "بعد حفظ أول فاتورة ستظهر هنا" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your receipts will appear here after you save the first one"
+          }
+        }
+      }
+    },
+    "بعض الفواتير لا تحتوي على تاريخ صالح ولم تُحتسب" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some receipts have invalid dates and were not included"
+          }
+        }
+      }
+    },
+    "بعض الفواتير لا تحمل تاريخاً صالحاً، لذلك لم تُحتسب." : {
+
+    },
+    "بعض المنتجات بلا سعر مسجل؛ تحليل المنتجات يشمل الأسعار المتاحة فقط." : {
+
+    },
+    "بيانات صورة الفاتورة غير صالحة." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The receipt image data is invalid."
+          }
+        }
+      }
+    },
+    "تأكد من ظهور جميع المنتجات والأسعار بوضوح" : {
+
+    },
+    "تأكد من وضوح الفاتورة وظهور جميع أطرافها" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make sure the receipt is clear and fully visible"
+          }
+        }
+      }
+    },
+    "تأكيد الحفظ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirm Save"
+          }
+        }
+      }
+    },
+    "تتبع مشترياتك، قارن الأسعار، ووفر أكثر" : {
+
+    },
+    "تحديث كتالوج المنتجات" : {
+
+    },
+    "تُحفظ التفضيلات على هذا الجهاز. لا توجد خدمة إشعارات خلفية مهيأة في المشروع." : {
+
+    },
+    "تحقق من الاتصال وحاول مرة أخرى" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check your connection and try again"
+          }
+        }
+      }
+    },
+    "تحقق من الاتصال وحاول مرة أخرى." : {
+
+    },
+    "تحليل SmartBill" : {
+
+    },
+    "تحليل الفاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyze Receipt"
+          }
+        }
+      }
+    },
+    "تحليل مشترياتك" : {
+
+    },
+    "تحميل المزيد من المنتجات" : {
+
+    },
+    "تسجيل الخروج" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log out"
+          }
+        }
+      }
+    },
+    "تسجيل الخروج؟" : {
+
+    },
+    "تسوق" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shopping"
+          }
+        }
+      }
+    },
+    "تصوير فاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take Photo"
+          }
+        }
+      }
+    },
+    "تعديل" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "تعديل المنتج" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Product"
+          }
+        }
+      }
+    },
+    "تعذر إكمال الطلب:" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not complete the request:"
+          }
+        }
+      }
+    },
+    "تعذر إنشاء اتصال HTTPS آمن بالخادم." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not establish a secure HTTPS connection."
+          }
+        }
+      }
+    },
+    "تعذر استقبال الصورة أو تجاوزت الحد المسموح." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not receive the image, or it exceeded the size limit."
+          }
+        }
+      }
+    },
+    "تعذر الاتصال بالخادم، حاول مرة أخرى" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not connect to the server. Try again."
+          }
+        }
+      }
+    },
+    "تعذر الاتصال بالخادم. تحقق من اتصال الشبكة وحاول مرة أخرى." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not connect to the server. Check your connection and try again."
+          }
+        }
+      }
+    },
+    "تعذر الاتصال بخدمة التحليل. حاول مرة أخرى لاحقًا." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not connect to the analysis service. Try again later."
+          }
+        }
+      }
+    },
+    "تعذر الاتصال بخدمة المنتجات. تحقق من الإنترنت وحاول مرة أخرى." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not connect to the product service. Check your internet connection and try again."
+          }
+        }
+      }
+    },
+    "تعذر الاتصال بخدمة تحليل الفواتير. تحقق من الإنترنت وحاول مرة أخرى." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not connect to receipt analysis. Check your internet connection and try again."
+          }
+        }
+      }
+    },
+    "تعذر البحث عن المنتج بسبب خطأ في الخادم" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not look up the product because of a server error."
+          }
+        }
+      }
+    },
+    "تعذر التحقق من أحد صفوف المنتجات." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not validate one of the product rows."
+          }
+        }
+      }
+    },
+    "تعذر التحقق من نتيجة التحليل." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not validate the analysis result."
+          }
+        }
+      }
+    },
+    "تعذر العثور على عنوان الخادم. تحقق من أن نفق Cloudflare الحالي نشط وأن عنوان Debug صحيح." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not find the server. Check that the current Cloudflare tunnel is active and the Debug address is correct."
+          }
+        }
+      }
+    },
+    "تعذر الوصول إلى الكاميرا" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camera Unavailable"
+          }
+        }
+      }
+    },
+    "تعذر بدء خدمة تحليل الفواتير." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not start receipt analysis."
+          }
+        }
+      }
+    },
+    "تعذر تجهيز الفاتورة للحفظ." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t prepare the receipt for saving."
+          }
+        }
+      }
+    },
+    "تعذر تجهيز طلب البحث" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not prepare the search request."
+          }
+        }
+      }
+    },
+    "تعذر تجهيز طلب التحليل." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not prepare the analysis request."
+          }
+        }
+      }
+    },
+    "تعذر تجهيز قارئ الباركود" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not prepare the barcode reader."
+          }
+        }
+      }
+    },
+    "تعذر تحليل الفاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t Analyze Receipt"
+          }
+        }
+      }
+    },
+    "تعذر تحليل الفاتورة حاليًا. حاول مرة أخرى لاحقًا." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not analyze the receipt right now. Try again later."
+          }
+        }
+      }
+    },
+    "تعذر تحميل الإحصائيات" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t Load Statistics"
+          }
+        }
+      }
+    },
+    "تعذر تحميل الصورة. اختر صورة صالحة وحاول مرة أخرى." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t load the image. Choose a valid photo and try again."
+          }
+        }
+      }
+    },
+    "تعذر تحميل الفواتير..." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading receipts…"
+          }
+        }
+      }
+    },
+    "تعذر تحميل المنتجات. تحقق من اتصال الشبكة وحاول مرة أخرى." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not load products. Check your connection and try again."
+          }
+        }
+      }
+    },
+    "تعذر تشغيل كاميرا الباركود" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not start the barcode camera."
+          }
+        }
+      }
+    },
+    "تعذر حفظ الفاتورة. حاول مرة أخرى." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn’t save the receipt. Try again."
+          }
+        }
+      }
+    },
+    "تعذر قراءة بيانات المنتج من الخادم" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not read product data from the server."
+          }
+        }
+      }
+    },
+    "تعذر قراءة صورة الفاتورة أو تجاوزت الحد المسموح." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not read the receipt image, or it exceeded the size limit."
+          }
+        }
+      }
+    },
+    "تعذر قراءة صورة الفاتورة. اختر صورة واضحة بصيغة مدعومة وحاول مرة أخرى." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not read the receipt image. Choose a clear image in a supported format and try again."
+          }
+        }
+      }
+    },
+    "تغيير الصورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Photo"
+          }
+        }
+      }
+    },
+    "تفاصيل الفاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receipt Details"
+          }
+        }
+      }
+    },
+    "تفاصيل المنتج" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product Details"
+          }
+        }
+      }
+    },
+    "تفعيل الإشعارات" : {
+
+    },
+    "تقليل الكمية" : {
+
+    },
+    "تم" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "تم إرسال هذه الفاتورة مؤخرًا. راجع السجل قبل إعادة الحفظ." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This receipt was submitted recently. Check history before saving again."
+          }
+        }
+      }
+    },
+    "تم إنشاء الحساب بنجاح ✅" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account created successfully ✅"
+          }
+        }
+      }
+    },
+    "تم التحقق من الحساب، لكن تعذر إنشاء جلسة آمنة. تحقق من إعداد جلسة PHP على الخادم ثم حاول مجددًا." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your account was verified, but a secure session could not be created. Check the server session settings and try again."
+          }
+        }
+      }
+    },
+    "تم الحفظ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved"
+          }
+        }
+      }
+    },
+    "تم حفظ الفاتورة بنجاح" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receipt saved successfully"
+          }
+        }
+      }
+    },
+    "تمام" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done"
+          }
+        }
+      }
+    },
+    "تمت الإضافة إلى السلة" : {
+
+    },
+    "توزيع المصروفات حسب التصنيف" : {
+
+    },
+    "جاري الحفظ..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saving…"
+          }
+        }
+      }
+    },
+    "جاري تجهيز الكاميرا..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparing camera…"
+          }
+        }
+      }
+    },
+    "جاري تحليل الفاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyzing Receipt"
+          }
+        }
+      }
+    },
+    "جاري تحليل الفاتورة..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyzing receipt..."
+          }
+        }
+      }
+    },
+    "جاري تحليل مصاريفك..." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading your spending…"
+          }
+        }
+      }
+    },
+    "جاري تحميل أسعار المتاجر" : {
+
+    },
+    "جاري تحميل الصورة..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading image…"
+          }
+        }
+      }
+    },
+    "جاري تحميل العروض" : {
+
+    },
+    "جاري تحميل الفواتير" : {
+
+    },
+    "جاري تحميل الفواتير..." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading receipts…"
+          }
+        }
+      }
+    },
+    "جاري تحميل المنتجات" : {
+
+    },
+    "جاري تحميل فواتيرك..." : {
+
+    },
+    "جرّب البحث باسم متجر أو مدينة مختلفة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try searching for a different store or city"
+          }
+        }
+      }
+    },
+    "حجم الصورة أكبر من الحد المسموح." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The image exceeds the allowed size."
+          }
+        }
+      }
+    },
+    "حجم صورة الفاتورة أكبر من الحد المسموح. اختر صورة أصغر." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The receipt image is too large. Choose a smaller image."
+          }
+        }
+      }
+    },
+    "حدث خطأ في الخادم (٪ld)." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A server error occurred (%ld)."
+          }
+        }
+      }
+    },
+    "حذف" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    "حذف %@" : {
+
+    },
+    "حذف البيانات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Data"
+          }
+        }
+      }
+    },
+    "حذف بيانات التطبيق المحلية" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete local app data"
+          }
+        }
+      }
+    },
+    "حذف سجل الفواتير" : {
+
+    },
+    "حسابي" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My Account"
+          }
+        }
+      }
+    },
+    "حسب النظام" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System Default"
+          }
+        }
+      }
+    },
+    "حسناً" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "حسنًا" : {
+
+    },
+    "حفظ" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "حفظ الفاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save Receipt"
+          }
+        }
+      }
+    },
+    "حلويات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sweets"
+          }
+        }
+      }
+    },
+    "حول التطبيق" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        }
+      }
+    },
+    "حوّل فواتيرك إلى بيانات مفيدة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turn receipts into useful insights"
+          }
+        }
+      }
+    },
+    "خدمة المنتجات غير مهيأة. اضبط عنوان HTTPS لخادم SmartBill في إعدادات التشغيل." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The product service is not configured. Set the Smart Bill HTTPS server address in the run settings."
+          }
+        }
+      }
+    },
+    "خدمة تحليل الفواتير غير متاحة مؤقتًا. حاول مرة أخرى." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receipt analysis is temporarily unavailable. Try again later."
+          }
+        }
+      }
+    },
+    "خدمة تحليل الفواتير غير مهيأة حاليًا." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receipt analysis is not currently configured."
+          }
+        }
+      }
+    },
+    "خدمة تحليل الفواتير غير مهيأة على الخادم." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receipt analysis is not configured on the server."
+          }
+        }
+      }
+    },
+    "خصم %lld%%" : {
+
+    },
+    "خطأ غير معروف" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown error"
+          }
+        }
+      }
+    },
+    "خطأ في الباركود" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barcode Error"
+          }
+        }
+      }
+    },
+    "دخول" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log In"
+          }
+        }
+      }
+    },
+    "راجع أسماء المنتجات وأسعارها قبل الحفظ." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Review product names and prices before saving."
+          }
+        }
+      }
+    },
+    "رجوع إلى الرئيسية" : {
+
+    },
+    "رقم صفحة المنتجات غير صالح." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The product page number is invalid."
+          }
+        }
+      }
+    },
+    "زيادة الكمية" : {
+
+    },
+    "سجّل الدخول قبل تحليل الفاتورة." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign in before analyzing a receipt."
+          }
+        }
+      }
+    },
+    "سجل الفواتير" : {
+
+    },
+    "سجل فواتيرك السابقة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your receipt history"
+          }
+        }
+      }
+    },
+    "سعر الوحدة: %@" : {
+
+    },
+    "سلة المشتريات" : {
+
+    },
+    "سياسة الخصوصية" : {
+
+    },
+    "صوّر الفاتورة بوضوح للحصول على أفضل نتيجة" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take a clear photo for the best results"
+          }
+        }
+      }
+    },
+    "صوّر فاتورتك وسنستخرج المنتجات والأسعار تلقائياً" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take a photo of your receipt and we’ll extract its products and prices"
+          }
+        }
+      }
+    },
+    "صوّر فاتورتك وسنستخرج المنتجات والأسعار تلقائياً." : {
+
+    },
+    "صيغة الصورة المدعومة هي JPEG." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The supported image format is JPEG."
+          }
+        }
+      }
+    },
+    "صيغة الطلب غير صالحة." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The request format is invalid."
+          }
+        }
+      }
+    },
+    "ضع الفاتورة داخل الإطار" : {
+
+    },
+    "طعام" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Food"
+          }
+        }
+      }
+    },
+    "عرض الأشهر الاثني عشر الأخيرة في الرسم" : {
+
+    },
+    "عرض السجل" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View History"
+          }
+        }
+      }
+    },
+    "عرض السلة" : {
+
+    },
+    "عرض المزيد" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show More"
+          }
+        }
+      }
+    },
+    "عرض المنتجات" : {
+
+    },
+    "عرض من المتاجر" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "store offers"
+          }
+        }
+      }
+    },
+    "عروض الأسعار الأقل من السعر السابق المسجل في كتالوج المتاجر." : {
+
+    },
+    "عن الشهر الماضي" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vs. Last Month"
+          }
+        }
+      }
+    },
+    "عنوان خادم SmartBill غير مضبوط أو غير صالح." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Smart Bill server address is missing or invalid."
+          }
+        }
+      }
+    },
+    "عنوان خدمة المنتجات غير صالح." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The product service URL is invalid."
+          }
+        }
+      }
+    },
+    "غير متوفر" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unavailable"
+          }
+        }
+      }
+    },
+    "غير مصنف" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uncategorized"
+          }
+        }
+      }
+    },
+    "غير معروف" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown"
+          }
+        }
+      }
+    },
+    "فتح الإعدادات" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Settings"
+          }
+        }
+      }
+    },
+    "فتح تفاصيل الفاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Receipt Details"
+          }
+        }
+      }
+    },
+    "فتح صفحة المنتج في المتجر" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Product Page"
+          }
+        }
+      }
+    },
+    "فرق السعر يصل إلى %@" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Price difference up to %@"
+          }
+        }
+      }
+    },
+    "فشل إنشاء الحساب" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not create the account."
+          }
+        }
+      }
+    },
+    "قائمة التسوق غير متاحة حالياً." : {
+
+    },
+    "قائمة مشترياتك" : {
+
+    },
+    "قد يستغرق هذا بضع ثوانٍ" : {
+
+    },
+    "قراءة EAN-13 غير متاحة على هذه الكاميرا" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EAN-13 scanning is unavailable on this camera."
+          }
+        }
+      }
+    },
+    "قهوة" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coffee"
+          }
+        }
+      }
+    },
+    "كل المتاجر" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All stores"
+          }
+        }
+      }
+    },
+    "كلمة المرور" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "لا تملك صلاحية استخدام خدمة تحليل الفواتير." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You are not allowed to use receipt analysis."
+          }
+        }
+      }
+    },
+    "لا توجد أسعار مطابقة لهذا المنتج في المتاجر المدعومة" : {
+
+    },
+    "لا توجد أسماء متاجر مسجلة في فواتير هذه الفترة." : {
+
+    },
+    "لا توجد بيانات كافية" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not Enough Data"
+          }
+        }
+      }
+    },
+    "لا توجد بيانات كافية لاستخراج ملاحظات مؤكدة لهذه الفترة." : {
+
+    },
+    "لا توجد بيانات للشهر الماضي" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No data for last month"
+          }
+        }
+      }
+    },
+    "لا توجد صورة للمعاينة" : {
+
+    },
+    "لا توجد فواتير محفوظة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No saved receipts"
+          }
+        }
+      }
+    },
+    "لا توجد فواتير محفوظة بعد" : {
+
+    },
+    "لا توجد مبالغ منتجات مصنفة في هذه الفترة." : {
+
+    },
+    "لا توجد مدينة" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No city"
+          }
+        }
+      }
+    },
+    "لا توجد مصروفات في هذه الفترة" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No spending in this period"
+          }
+        }
+      }
+    },
+    "لا توجد مصروفات منتجات لعرض نسب التصنيفات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No product spending available for a category breakdown"
+          }
+        }
+      }
+    },
+    "لا توجد منتجات تطابق البحث أو المتجر المحدد" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No products match this search or store"
+          }
+        }
+      }
+    },
+    "لا توجد منتجات للمراجعة. أضف منتجًا أو أعد التحليل." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No products to review. Add a product or analyze again."
+          }
+        }
+      }
+    },
+    "لا توجد منتجات مخفضة ضمن الأسعار المحملة" : {
+
+    },
+    "لا توجد نتائج" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Results"
+          }
+        }
+      }
+    },
+    "لا يسمح الخادم بقراءة المنتجات." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The server does not allow access to products."
+          }
+        }
+      }
+    },
+    "لم تظهر عروض مخفضة في المنتجات المحملة بعد" : {
+
+    },
+    "لم نتمكن من تحميل المنتجات. تحقق من الاتصال ثم حاول مرة أخرى." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Could not load products. Check your connection and try again."
+          }
+        }
+      }
+    },
+    "لم نعثر على منتجات واضحة في الفاتورة." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No clear products were found on the receipt."
+          }
+        }
+      }
+    },
+    "لم نعثر على منتجات واضحة في الفاتورة. راجع الصورة أو أضف المنتجات يدويًا." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No clear products were found on the receipt. Review the image or add products manually."
+          }
+        }
+      }
+    },
+    "متابعة التسوق" : {
+
+    },
+    "متجر غير معروف" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown store"
+          }
+        }
+      }
+    },
+    "مجموع جزئي" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Partial Total"
+          }
+        }
+      }
+    },
+    "محدد" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selected"
+          }
+        }
+      }
+    },
+    "مخبوزات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bakery"
+          }
+        }
+      }
+    },
+    "مرحباً بعودتك 👋" : {
+
+    },
+    "مركز المساعدة" : {
+
+    },
+    "مساحة التخزين" : {
+
+    },
+    "مسار خدمة SmartBill غير صالح." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Smart Bill service endpoint is invalid."
+          }
+        }
+      }
+    },
+    "مسار خدمة المنتجات غير موجود على الخادم." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The product service endpoint was not found."
+          }
+        }
+      }
+    },
+    "مسح الباركود" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan Barcode"
+          }
+        }
+      }
+    },
+    "مسح البحث" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear Search"
+          }
+        }
+      }
+    },
+    "مسح الذاكرة المؤقتة" : {
+
+    },
+    "مسح فاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan a Receipt"
+          }
+        }
+      }
+    },
+    "مشروب" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drink"
+          }
+        }
+      }
+    },
+    "مشروبات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beverages"
+          }
+        }
+      }
+    },
+    "معاينة الفاتورة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receipt Preview"
+          }
+        }
+      }
+    },
+    "معروض" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "shown"
+          }
+        }
+      }
+    },
+    "ملخص مصاريفك وتحليلها" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your spending overview"
+          }
+        }
+      }
+    },
+    "منتج في المتاجر" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "products available"
+          }
+        }
+      }
+    },
+    "منتجاتي" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Products"
+          }
+        }
+      }
+    },
+    "منذ الآن" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now"
+          }
+        }
+      }
+    },
+    "منظفات" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cleaning Products"
+          }
+        }
+      }
+    },
+    "نتائج الباركود" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barcode Results"
+          }
+        }
+      }
+    },
+    "نتيجة التحليل" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analysis Results"
+          }
+        }
+      }
+    },
+    "نتيجة التحليل السابقة" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous Analysis"
+          }
+        }
+      }
+    },
+    "نجاح" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Success"
+          }
+        }
+      }
+    },
+    "نقرأ صورة الفاتورة لاستخراج المنتجات والأسعار..." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reading the receipt to extract products and prices…"
+          }
+        }
+      }
+    },
+    "هذا الشهر" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This Month"
+          }
+        }
+      }
+    },
+    "هذا العام" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This Year"
+          }
+        }
+      }
+    },
+    "هل تريد حفظ الفاتورة؟" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Would you like to save this receipt?"
+          }
+        }
+      }
+    },
+    "وصل رد غير صالح من خدمة التحليل. حاول مرة أخرى." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Receipt analysis returned an invalid response. Try again."
+          }
+        }
+      }
+    },
+    "وصل رد غير مكتمل من خدمة التحليل." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The analysis service returned an incomplete response."
+          }
+        }
+      }
+    },
+    "وصل رد من الخادم لكن تعذر قراءة صيغته." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The server responded, but its response could not be read."
+          }
+        }
+      }
+    },
+    "وصلت إلى حد التحليلات المؤقت. حاول لاحقًا." : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You have reached the temporary analysis limit. Try again later."
+          }
+        }
+      }
+    },
+    "يمكنك إعادة المحاولة أو مراجعة الصورة وإضافة المنتجات يدويًا." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try again, review the image, or add products manually."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

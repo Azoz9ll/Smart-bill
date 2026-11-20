@@ -1,3 +1,15 @@
+//
+//  Invoice.swift
+//  Smart Bill
+//
+//  Purpose:
+//  نموذج مبسط للفاتورة يربط التاريخ بقائمة منتجات.
+//
+//  Responsibilities:
+//  - حفظ معرف الفاتورة وتاريخها
+//  - تجميع عناصر Product دون تنفيذ طلبات شبكة
+//
+
 import Foundation
 //
 //  Invoice.swift
@@ -6,6 +18,7 @@ import Foundation
 //  Created by abdulaziz on 07/04/2026.
 //
 
+/// نموذج مبسط للفاتورة يربط التاريخ بقائمة منتجات.
 class Invoice {
     var invoiceID: Int
     var date: Date
@@ -17,3 +30,4 @@ class Invoice {
         self.products = products
     }
 }
+

@@ -2,13 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>SchemeUserState</key>
-	<dict>
-		<key>Smart bill.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
-	</dict>
+	<key>    Privacy - Camera Usage Description</key>
+	<string></string>
+	<key>OPENAI_API_KEY</key>
+	<string></string>
+	<key>VISION_API_KEY</key>
+	<string></string>
 </dict>
 </plist>
